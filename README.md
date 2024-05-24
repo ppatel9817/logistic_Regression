@@ -8,10 +8,6 @@ This project demonstrates a basic application of logistic regression for predict
 
 The dataset contains information on credit card clients and whether they defaulted on their payment the next month. The main steps involved in the analysis are data preprocessing, model training, and evaluation.
 
-### Files
-
-- `default of credit card clients.xls`: The dataset file containing the credit card client information and target variable.
-
 ### Dependencies
 
 To run the code, you need to have the following libraries installed:
